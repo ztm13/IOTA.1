@@ -6,3 +6,5 @@
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
     -->
 From application.html.erb in IOTA.1
+
+https://gist.github.com/JennDudley/2493288 committing stuff
